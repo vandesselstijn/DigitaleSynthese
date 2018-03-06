@@ -1,0 +1,60 @@
+# Compile of debouncer.vhd was successful.
+# Compile of debouncer_tb.vhd was successful.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of edge_detector.vhd was successful.
+# Compile of edge_detector_tb.vhd was successful.
+# Compile of seven_seg_dec.vhd was successful.
+# Compile of seven_seg_dec_tba.vhd was successful.
+# Compile of applicationlayer.vhd failed with 2 errors.
+# 9 compiles, 1 failed with 2 errors. 
+# Compile of debouncer.vhd was successful.
+# Compile of debouncer_tb.vhd was successful.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of edge_detector.vhd was successful.
+# Compile of edge_detector_tb.vhd was successful.
+# Compile of seven_seg_dec.vhd was successful.
+# Compile of seven_seg_dec_tba.vhd was successful.
+# Compile of applicationlayer.vhd failed with 1 errors.
+# 9 compiles, 1 failed with 1 error. 
+# Compile of debouncer.vhd was successful.
+# Compile of debouncer_tb.vhd was successful.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of edge_detector.vhd was successful.
+# Compile of edge_detector_tb.vhd was successful.
+# Compile of seven_seg_dec.vhd was successful.
+# Compile of seven_seg_dec_tba.vhd was successful.
+# Compile of applicationlayer.vhd failed with 3 errors.
+# 9 compiles, 1 failed with 3 errors. 
+# Compile of debouncer.vhd was successful.
+# Compile of debouncer_tb.vhd was successful.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of edge_detector.vhd was successful.
+# Compile of edge_detector_tb.vhd was successful.
+# Compile of seven_seg_dec.vhd was successful.
+# Compile of seven_seg_dec_tba.vhd was successful.
+# Compile of applicationlayer.vhd failed with 1 errors.
+# 9 compiles, 1 failed with 1 error. 
+# Compile of debouncer.vhd was successful.
+# Compile of debouncer_tb.vhd was successful.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of edge_detector.vhd was successful.
+# Compile of edge_detector_tb.vhd was successful.
+# Compile of seven_seg_dec.vhd was successful.
+# Compile of seven_seg_dec_tba.vhd was successful.
+# Compile of applicationlayer.vhd failed with 1 errors.
+# 9 compiles, 1 failed with 1 error. 
+# Compile of debouncer.vhd was successful.
+# Compile of debouncer_tb.vhd was successful.
+# Compile of counter_tb.vhd was successful.
+# Compile of counter.vhd was successful.
+# Compile of edge_detector.vhd was successful.
+# Compile of edge_detector_tb.vhd was successful.
+# Compile of seven_seg_dec.vhd was successful.
+# Compile of seven_seg_dec_tba.vhd was successful.
+# Compile of applicationlayer.vhd was successful.
+# 9 compiles, 0 failed with no errors. 

@@ -1,0 +1,318 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Arno Van Hoorebeeck\Digitale Synthese\Transmitter
+T_opt
+VQo42XNdga0PVTeNK7Q0L43
+04 9 5 work debouncer behav 1
+=1-989096e0ac4b-5a8c1c26-136-11c8
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OE;O;6.5;42
+T_opt1
+VLO[k;aTNbLWC[8W9FIM>W0
+04 16 10 work seven_seg_dec_tb structural 1
+=1-989096e0ac4b-5a9e90cd-1ea-12f0
+R1
+n@_opt1
+R2
+T_opt2
+VVVzC>ih[W`jjf3kUCRLU90
+04 7 5 work counter behav 1
+=1-989096e0ac4b-5a8c2d52-60-1478
+R1
+n@_opt2
+R2
+Eapplayer
+Z3 w1520345584
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z5 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z6 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z7 dE:\DS_SP_VanDessel_Stijn
+Z8 8E:/DS_SP_VanDessel_Stijn/applicationlayer.vhd
+Z9 FE:/DS_SP_VanDessel_Stijn/applicationlayer.vhd
+l0
+L14
+Val^gN<6T_oNX2NkaSW@kJ1
+!s100 XDCn6_ZQAHUI4Az0bO[2g3
+Z10 OE;C;6.5;42
+32
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Astructural
+Z13 DEx4 work 13 seven_seg_dec 0 22 O^00T@lLPKgP?hee90L]H0
+Z14 DEx4 work 7 counter 0 22 _2h0[G2dL^?Bmn^dci]EV0
+Z15 DEx4 work 13 edge_detector 0 22 3e<KR2=An7TV5D:@XhBbj1
+Z16 DEx4 work 9 debouncer 0 22 fdGmF3RieSYLaI144f7K?0
+R4
+R5
+R6
+DEx4 work 8 applayer 0 22 al^gN<6T_oNX2NkaSW@kJ1
+l84
+L28
+VcX5dW<iF>^kMoGG>g31WL0
+!s100 g>B]0HmZU>EozW_O<bTU20
+R10
+32
+Z17 Mx3 4 ieee 14 std_logic_1164
+Z18 Mx2 4 ieee 15 std_logic_arith
+Z19 Mx1 4 ieee 18 std_logic_unsigned
+R11
+R12
+Ecounter
+Z20 w1520339539
+R4
+R5
+R6
+R7
+Z21 8E:/DS_SP_VanDessel_Stijn/counter.vhd
+Z22 FE:/DS_SP_VanDessel_Stijn/counter.vhd
+l0
+L13
+V_2h0[G2dL^?Bmn^dci]EV0
+R10
+32
+R11
+R12
+!s100 n9R5Fe;6:AQPUFSeZ0XHW1
+Abehav
+R4
+R5
+R6
+R14
+l30
+L24
+Vd7>3_n9]?_n7ang]WzlQ02
+R10
+32
+R17
+R18
+R19
+R11
+R12
+!s100 0>NUFb3XM9EI20zG8bPQP3
+Ecounter_tb
+Z23 w1519737810
+R6
+R7
+Z24 8E:/DS_SP_VanDessel_Stijn/counter_tb.vhd
+Z25 FE:/DS_SP_VanDessel_Stijn/counter_tb.vhd
+l0
+L11
+VIShZ9=>L`I`0e93hnlNjL3
+R10
+32
+R11
+R12
+!s100 Z9nYB@`Z6JEk5FfBGUN?D2
+Astructural
+R4
+R5
+R14
+R6
+DEx4 work 10 counter_tb 0 22 IShZ9=>L`I`0e93hnlNjL3
+l42
+L14
+V0Vc4Ce3BUDCXjRnfB9j[12
+R10
+32
+R17
+R18
+R19
+R11
+R12
+!s100 ]fR3I@[Ri97MfXE7W1Ld60
+Edebouncer
+Z26 w1519133022
+R6
+R7
+Z27 8E:/DS_SP_VanDessel_Stijn/Zender/applicationLayer/debouncer/debouncer.vhd
+Z28 FE:/DS_SP_VanDessel_Stijn/Zender/applicationLayer/debouncer/debouncer.vhd
+l0
+L12
+VfdGmF3RieSYLaI144f7K?0
+R10
+32
+R11
+R12
+!s100 :a2`NQWS0i6zM9:i<6<lK3
+Abehav
+R6
+R16
+l31
+L22
+V3F5_KA3bj47[O:T:WFgdZ0
+R10
+32
+Z29 Mx1 4 ieee 14 std_logic_1164
+R11
+R12
+!s100 L0REaC5o=^b[UXfD:z14n1
+Edebouncer_tb
+Z30 w1520341168
+R5
+R4
+Z31 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+R6
+R7
+Z32 8E:/DS_SP_VanDessel_Stijn/debouncer_tb.vhd
+Z33 FE:/DS_SP_VanDessel_Stijn/debouncer_tb.vhd
+l0
+L13
+V:gR2M6cX_o8T3k^zolPL>2
+R10
+32
+R11
+R12
+!s100 I6]RTk48eS<6P9K]BkEm11
+Astructural
+R16
+R5
+R4
+R31
+R6
+DEx4 work 12 debouncer_tb 0 22 :gR2M6cX_o8T3k^zolPL>2
+l42
+L16
+VZYN3?BU2Log7[Y3nTD?F]2
+R10
+32
+Z34 Mx4 4 ieee 14 std_logic_1164
+Z35 Mx3 4 ieee 11 numeric_std
+Z36 Mx2 4 ieee 18 std_logic_unsigned
+Z37 Mx1 4 ieee 15 std_logic_arith
+R11
+R12
+!s100 @;M=a>X1lk4g3RmA72UIL2
+Eedge_detector
+Z38 w1519738141
+R4
+R5
+R6
+R7
+Z39 8E:/DS_SP_VanDessel_Stijn/edge_detector.vhd
+Z40 FE:/DS_SP_VanDessel_Stijn/edge_detector.vhd
+l0
+L13
+V3e<KR2=An7TV5D:@XhBbj1
+R10
+32
+R11
+R12
+!s100 Y00`LXD]3nTXLCNhNLzDM1
+Abehav
+R4
+R5
+R6
+R15
+l29
+L23
+V6d0[QSlm4V[GoK3k^[@?13
+R10
+32
+R17
+R18
+R19
+R11
+R12
+!s100 9JH;FSC4gh6a<B]1gCdM53
+Eedge_detector_tb
+Z41 w1519739084
+R6
+R7
+Z42 8E:/DS_SP_VanDessel_Stijn/edge_detector_tb.vhd
+Z43 FE:/DS_SP_VanDessel_Stijn/edge_detector_tb.vhd
+l0
+L11
+Vn07=VY0HCShSFB]gY:`Tm1
+R10
+32
+R11
+R12
+!s100 Xh:5k833F:CzHFUo]]F[K3
+Astructural
+R4
+R5
+R15
+R6
+DEx4 work 16 edge_detector_tb 0 22 n07=VY0HCShSFB]gY:`Tm1
+l41
+L14
+V80SGAgS9NQ`F0B1gWOZ<l2
+R10
+32
+R17
+R18
+R19
+R11
+R12
+!s100 Zgi>ggdS5[4^gG:?9?>:E0
+Eseven_seg_dec
+Z44 w1520339735
+R4
+R5
+R6
+R7
+Z45 8E:/DS_SP_VanDessel_Stijn/seven_seg_dec.vhd
+Z46 FE:/DS_SP_VanDessel_Stijn/seven_seg_dec.vhd
+l0
+L13
+VO^00T@lLPKgP?hee90L]H0
+R10
+32
+R11
+R12
+!s100 aTdk=LFdR2ZbF@6IA4:<m3
+Abehav
+R4
+R5
+R6
+R13
+l22
+L20
+VP:gnnSh433?e5G<1E61ID3
+R10
+32
+R17
+R18
+R19
+R11
+R12
+!s100 G8H;3afG0k9bGQHL3aM6z2
+Eseven_seg_dec_tb
+Z47 w1520341072
+R5
+R4
+R31
+R6
+R7
+Z48 8E:/DS_SP_VanDessel_Stijn/seven_seg_dec_tba.vhd
+Z49 FE:/DS_SP_VanDessel_Stijn/seven_seg_dec_tba.vhd
+l0
+L13
+VnVB12SgW5?0UKW3YSAA:h1
+R10
+32
+R11
+R12
+!s100 >^z9]N8VY2[7XMGN?L`S=0
+Astructural
+R13
+R5
+R4
+R31
+R6
+DEx4 work 16 seven_seg_dec_tb 0 22 nVB12SgW5?0UKW3YSAA:h1
+l36
+L16
+Vj<zY_^a1:Al2]C10>?VD;2
+!s100 R=j@lUz]o2Z_5=8k[9f]M1
+R10
+32
+R34
+R35
+R36
+R37
+R11
+R12

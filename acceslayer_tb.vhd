@@ -10,6 +10,9 @@ use IEEE.std_logic_1164.all;
 use IEEE.std_logic_arith.all;
 use IEEE.std_logic_unsigned.all;
 
+ENTITY acceslayer_tb IS
+END acceslayer_tb;
+
 architecture structural of acceslayer_tb is 
 
 component acceslayer is
@@ -40,7 +43,7 @@ signal rst_t:  std_logic;
 
 signal sdo_posenc_t: std_logic;
 signal sel_t: std_logic_vector(1 downto 0);
-signal comp_t: std_logic;
+signal pn_start_t: std_logic;
 signal sdo_spread_t: std_logic;
 
 begin
@@ -57,12 +60,12 @@ begin
 
     clock : process
     begin 
-        clk_s <= '0';
+        clk_t <= '0';
         wait for period/2;
         loop
-            clk_s <= '0';
+            clk_t <= '0';
             wait for period/2;
-            clk_s <= '1';
+            clk_t <= '1';
             wait for period/2;
             exit when end_of_sim;
         end loop;

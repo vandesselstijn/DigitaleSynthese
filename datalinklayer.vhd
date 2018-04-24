@@ -55,7 +55,7 @@ signal load_t, shift_t: std_logic;
 
 Begin
 
-datareg: datareg port map(
+data_reg: datareg port map(
     rst => rst,
     clk => clk,
     clk_en => clk_en,
@@ -65,13 +65,13 @@ datareg: datareg port map(
     sdo_posenc => sdo_posenc
   );
 
-seqcom: seqcom port map(
+seq_con: seqcon port map(
     rst => rst,
     clk => clk,
     clk_en => clk_en,
     pn_start => pn_start,
     load => load_t,
-    shift_t => shift_t
+    shift => shift_t
   );
                  
 end behav;

@@ -1,8 +1,12 @@
-C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd
+C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd(1): (vcom-1491) Empty source files.
-
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity datalinklayer
+-- Compiling architecture behav of datalinklayer
 
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -26,17 +30,26 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling architecture structural of seven_seg_dec_tb
 -- Loading entity seven_seg_dec
 
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd(1): (vcom-1491) Empty source files.
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity acceslayer_tb
+-- Compiling architecture structural of acceslayer_tb
+-- Loading entity acceslayer
 
-
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd(2): (vcom-1491) Empty source files.
-
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity seqcon
+-- Compiling architecture behav of seqcon
 
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -52,6 +65,18 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading entity counter
 -- Loading entity seven_seg_dec
 
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity datalinklayer_tb
+-- Compiling architecture structural of datalinklayer_tb
+-- Loading entity datalinklayer
+
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -62,17 +87,16 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity seven_seg_dec
 -- Compiling architecture behav of seven_seg_dec
 
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer.vhd
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer.vhd(1): (vcom-1491) Empty source files.
-
-
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd(1): (vcom-1491) Empty source files.
-
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity datareg_tb
+-- Compiling architecture structural of datareg_tb
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity datareg
 
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -96,6 +120,17 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package STD_LOGIC_UNSIGNED
 -- Loading entity counter
 
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity seqcom_tb
+-- Compiling architecture structural of seqcom_tb
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity seqcon
+
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -108,11 +143,16 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling architecture structural of applayer_tb
 -- Loading entity applayer
 
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd(2): (vcom-1491) Empty source files.
-
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity demux_tb
+-- Compiling architecture structural of demux_tb
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity demux
 
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -122,21 +162,15 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity debouncer
 -- Compiling architecture behav of debouncer
 
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd(2): (vcom-1491) Empty source files.
-
-
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Loading package std_logic_arith
 -- Loading package STD_LOGIC_UNSIGNED
--- Compiling entity counter
--- Compiling architecture behav of counter
+-- Compiling entity datareg
+-- Compiling architecture behav of datareg
 
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -148,11 +182,15 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity pngen
 -- Compiling architecture behav of pngen
 
-} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd
+} {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
-** Error (suppressible): C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd(2): (vcom-1491) Empty source files.
-
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter
+-- Compiling architecture behav of counter
 
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -161,8 +199,8 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package std_logic_1164
 -- Loading package std_logic_arith
 -- Loading package STD_LOGIC_UNSIGNED
--- Compiling entity datareg
--- Compiling architecture behavior of datareg
+-- Compiling entity demux
+-- Compiling architecture behav of demux
 
 } {} {}} C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015

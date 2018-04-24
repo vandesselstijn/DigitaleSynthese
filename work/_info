@@ -23,9 +23,9 @@ VofA7SXNPnzU8X<T@fg1D81
 !s100 gO;2Am;;2^eS8RG?k<BjD3
 Z8 OP;C;10.4a;61
 32
-Z9 !s110 1524562232
+Z9 !s110 1524570730
 !i10b 1
-Z10 !s108 1524562231.000000
+Z10 !s108 1524570730.000000
 Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer.vhd|
 Z12 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer.vhd|
 !i113 1
@@ -36,7 +36,7 @@ R1
 R2
 R3
 R4
-DEx4 work 10 acceslayer 0 22 ofA7SXNPnzU8X<T@fg1D81
+Z15 DEx4 work 10 acceslayer 0 22 ofA7SXNPnzU8X<T@fg1D81
 l59
 L27
 V]3i;030NjBj`A`Q4XYb?O0
@@ -51,26 +51,70 @@ R12
 !i113 1
 R13
 R14
+Eacceslayer_tb
+Z16 w1524570727
+R1
+R2
+R3
+R4
+R5
+Z17 8C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd
+Z18 FC:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd
+l0
+L13
+VWoK[Q:IK`aiE=D3<Q?>O13
+!s100 hB>J6=KC0QJg2`IG^DEF13
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd|
+Z20 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd|
+!i113 1
+R13
+R14
+Astructural
+R15
+R1
+R2
+R3
+R4
+DEx4 work 13 acceslayer_tb 0 22 WoK[Q:IK`aiE=D3<Q?>O13
+l49
+L16
+VIj3@Ao5c_`7a44<iRBC9E1
+!s100 TomP>b0BWff`h:GMz^G001
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
 Eaccess_layer_test_tx
-Z15 w1522122428
+Z21 w1522122428
 R2
 R1
 R3
 R4
 R5
-Z16 8C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd
-Z17 FC:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd
+R17
+R18
 l0
 L12
 VAPSAV<iFDfSlOVAY<Wn2>1
 !s100 X9f=c7@I1<C?ROBoEn=F31
 R8
 32
-Z18 !s110 1522123053
+Z22 !s110 1522123053
 !i10b 1
-Z19 !s108 1522123053.000000
-Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd|
-Z21 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/acceslayer_tb.vhd|
+Z23 !s108 1522123053.000000
+R19
+R20
 !i113 1
 R13
 R14
@@ -87,11 +131,11 @@ V@K>m0Y268eG`G>4oG^IW70
 !s100 Sj@Y<M=?8Mig_1CbzW2<52
 R8
 32
-R18
+R22
 !i10b 1
+R23
 R19
 R20
-R21
 !i113 1
 R13
 R14
@@ -108,90 +152,90 @@ V3Z0M0]XjNOiO0ZaEmT^Ai3
 !s100 ZiekY^OD>MBR[[5nPiP2`3
 R8
 32
-Z22 !s110 1522123054
+Z24 !s110 1522123054
 !i10b 1
-Z23 !s108 1522123054.000000
+Z25 !s108 1522123054.000000
 R11
 R12
 !i113 1
 R13
 R14
 Eapplayer
-Z24 w1521642890
+Z26 w1521642890
 R1
 R2
 R3
 R4
 R5
-Z25 8C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd
-Z26 FC:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd
+Z27 8C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd
+Z28 FC:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd
 l0
 L14
 VH6A4MF[c6zHFHG:DR:jjK3
 !s100 ?B<ge33LFnTam;W5]Okj@2
 R8
 32
-Z27 !s110 1524562230
+Z29 !s110 1524570729
 !i10b 1
-Z28 !s108 1524562230.000000
-Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd|
-Z30 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd|
+Z30 !s108 1524570729.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd|
+Z32 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer.vhd|
 !i113 1
 R13
 R14
 Astructural
-Z31 DEx4 work 13 seven_seg_dec 0 22 Le9PXjO:[P]XKfgY;R2h60
-Z32 DEx4 work 7 counter 0 22 lM1m49f4Ko7;B<`=cL4:53
-Z33 DEx4 work 13 edge_detector 0 22 g9:`g9OaSl=Df]WDRdabN1
-Z34 DEx4 work 9 debouncer 0 22 ?c@_IcZ8CM]`ZkgTnabQz1
+Z33 DEx4 work 13 seven_seg_dec 0 22 Le9PXjO:[P]XKfgY;R2h60
+Z34 DEx4 work 7 counter 0 22 lM1m49f4Ko7;B<`=cL4:53
+Z35 DEx4 work 13 edge_detector 0 22 g9:`g9OaSl=Df]WDRdabN1
+Z36 DEx4 work 9 debouncer 0 22 ?c@_IcZ8CM]`ZkgTnabQz1
 R1
 R2
 R3
 R4
-Z35 DEx4 work 8 applayer 0 22 H6A4MF[c6zHFHG:DR:jjK3
+Z37 DEx4 work 8 applayer 0 22 H6A4MF[c6zHFHG:DR:jjK3
 l84
 L28
 VWS]BT<zWo;S3FO4X_hOAi3
 !s100 JV;;heenzRQiJc[VWM1M_3
 R8
 32
-R27
-!i10b 1
-R28
 R29
+!i10b 1
 R30
+R31
+R32
 !i113 1
 R13
 R14
 Eapplayer_tb
-Z36 w1521642078
+Z38 w1521642078
 R2
 R1
-Z37 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z39 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 R3
 R4
 R5
-Z38 8C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd
-Z39 FC:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd
+Z40 8C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd
+Z41 FC:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd
 l0
 L13
 VEB:?POFJ@:FDM5PT576:;3
 !s100 3WFGRBN9mSVcdVSVje^`K0
 R8
 32
-R27
+R29
 !i10b 1
-R28
-Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd|
-Z41 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd|
+R30
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd|
+Z43 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/applicationlayer_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
-R35
+R37
 R2
 R1
-R37
+R39
 R3
 R4
 DEx4 work 11 applayer_tb 0 22 EB:?POFJ@:FDM5PT576:;3
@@ -201,34 +245,34 @@ VQSPNGRAQHPf5:ZBF1dJb93
 !s100 B3oXC@[zlQ5z9JB]BIQfU3
 R8
 32
-R27
+R29
 !i10b 1
-R28
-R40
-R41
+R30
+R42
+R43
 !i113 1
 R13
 R14
 Ecounter
-Z42 w1521641684
+Z44 w1521641684
 R1
 R2
 R3
 R4
 R5
-Z43 8C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd
-Z44 FC:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd
+Z45 8C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd
+Z46 FC:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd
 l0
 L13
 VlM1m49f4Ko7;B<`=cL4:53
 !s100 F7TiF9MO=1<A>MobM_=;X2
 R8
 32
-Z45 !s110 1524562231
+R29
 !i10b 1
-R10
-Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd|
-Z47 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd|
+R30
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd|
+Z48 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/counter.vhd|
 !i113 1
 R13
 R14
@@ -237,46 +281,46 @@ R1
 R2
 R3
 R4
-R32
+R34
 l30
 L24
 V6CT3NZc2zK:X?Y__=IdWG1
 !s100 6LCKc2UZGK;kjWWjTdNkJ0
 R8
 32
-R45
+R29
 !i10b 1
-R10
-R46
+R30
 R47
+R48
 !i113 1
 R13
 R14
 Ecounter_tb
-Z48 w1524547555
+Z49 w1524547555
 R3
 R4
 R5
-Z49 8C:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd
-Z50 FC:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd
+Z50 8C:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd
+Z51 FC:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd
 l0
 L11
 V2h_]`lnSSUif7f<[:idd50
 !s100 BV@3:X5RbC`?o;@iUV4Di0
 R8
 32
-R45
+R29
 !i10b 1
-R28
-Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd|
-Z52 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd|
+R30
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd|
+Z53 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/counter_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
 R1
 R2
-R32
+R34
 R3
 R4
 DEx4 work 10 counter_tb 0 22 2h_]`lnSSUif7f<[:idd50
@@ -286,34 +330,34 @@ Viz>FZC[C2=aZSckmHaKoj1
 !s100 C07=G38n47K13;IZU@_Fj2
 R8
 32
-R45
+R29
 !i10b 1
-R28
-R51
+R30
 R52
+R53
 !i113 1
 R13
 R14
 Edatalink_layer_test_tx
-Z53 w1522122549
+Z54 w1522122549
 R2
 R1
 R3
 R4
 R5
-Z54 8C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd
-Z55 FC:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd
+Z55 8C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd
+Z56 FC:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd
 l0
 L12
 VWca=H=lnzZU?>3b``bOFn0
 !s100 DHkdVj>4ePo=MJDnX8F3L1
 R8
 32
-R22
+R24
 !i10b 1
-R23
-Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd|
-Z57 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd|
+R25
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd|
+Z58 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer_tb.vhd|
 !i113 1
 R13
 R14
@@ -330,11 +374,11 @@ V:8cJHd5l^eV0O[:5Y_gT@0
 !s100 8PFVNE_LD45B7X`hCZSJA1
 R8
 32
-R22
+R24
 !i10b 1
-R23
-R56
+R25
 R57
+R58
 !i113 1
 R13
 R14
@@ -343,42 +387,42 @@ w1522122498
 R3
 R4
 R5
-8C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd
-FC:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd
+Z59 8C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd
+Z60 FC:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd
 l0
 L10
 VD;`YVk@^]el@LU1N5QTlB0
 !s100 32l<Z:lTV5f>Vi5VNj4>d3
 R8
 32
-R22
+R24
 !i10b 1
-R23
-!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd|
-!s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd|
+R25
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd|
+Z62 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datalinklayer.vhd|
 !i113 1
 R13
 R14
-Edatareg
-Z58 w1524552419
+Edatalinklayer
+Z63 w1524569528
 R1
 R2
 R3
 R4
 R5
-Z59 8C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd
-Z60 FC:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd
+R59
+R60
 l0
-L13
-ViQM<ZzHJnhD5NdaIQ6;D^0
-!s100 ?6DGWHLolkG6>XMA@P[O>2
+L14
+VDPd33gO<^WZEWce=:^7FG0
+!s100 EPd=B@jOAncnk;=@N7n8_1
 R8
 32
 R9
 !i10b 1
-Z61 !s108 1524562232.000000
-Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd|
-Z63 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd|
+R10
+R61
+R62
 !i113 1
 R13
 R14
@@ -387,7 +431,96 @@ R1
 R2
 R3
 R4
-Z64 DEx4 work 7 datareg 0 22 iQM<ZzHJnhD5NdaIQ6;D^0
+Z64 DEx4 work 13 datalinklayer 0 22 DPd33gO<^WZEWce=:^7FG0
+l56
+L27
+VICKEPbb7E1^MUi[7=CmNb0
+!s100 7fZGT<zL=obf=c:dh]kYW3
+R8
+32
+R9
+!i10b 1
+R10
+R61
+R62
+!i113 1
+R13
+R14
+Edatalinklayer_tb
+Z65 w1524570380
+R2
+R1
+R39
+R3
+R4
+R5
+R55
+R56
+l0
+L13
+V4zz[dJf0nZPd3KK;N<9;_1
+!s100 6fbKQBZLlEo@z4>oQS^?Y1
+R8
+32
+R9
+!i10b 1
+R10
+R57
+R58
+!i113 1
+R13
+R14
+Astructural
+R64
+R2
+R1
+R39
+R3
+R4
+DEx4 work 16 datalinklayer_tb 0 22 4zz[dJf0nZPd3KK;N<9;_1
+l47
+L16
+VJb1z^e:SZ=WE0E]ced3h63
+!s100 81;Ah3acQGgge[Vn2YCC42
+R8
+32
+R9
+!i10b 1
+R10
+R57
+R58
+!i113 1
+R13
+R14
+Edatareg
+Z66 w1524552419
+R1
+R2
+R3
+R4
+R5
+Z67 8C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd
+Z68 FC:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd
+l0
+L13
+ViQM<ZzHJnhD5NdaIQ6;D^0
+!s100 ?6DGWHLolkG6>XMA@P[O>2
+R8
+32
+R9
+!i10b 1
+R10
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd|
+Z70 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datareg.vhd|
+!i113 1
+R13
+R14
+Abehav
+R1
+R2
+R3
+R4
+Z71 DEx4 work 7 datareg 0 22 iQM<ZzHJnhD5NdaIQ6;D^0
 l33
 L25
 VZkM<<Hi@nHzZ<NI4cf9S<3
@@ -396,9 +529,9 @@ R8
 32
 R9
 !i10b 1
-R61
-R62
-R63
+R10
+R69
+R70
 !i113 1
 R13
 R14
@@ -407,7 +540,7 @@ R2
 R1
 R3
 R4
-Z65 DEx4 work 7 datareg 0 22 J<<?P98CkOP@[H_79DjZW0
+Z72 DEx4 work 7 datareg 0 22 J<<?P98CkOP@[H_79DjZW0
 l24
 L20
 VMP`@9K<iX]PIZoI]RMfZ62
@@ -417,39 +550,39 @@ R8
 !s110 1524553264
 !i10b 1
 !s108 1524553264.000000
-Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd|
-Z67 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd|
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd|
+Z74 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd|
 !i113 1
 R13
 R14
-Z68 FC:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd
+Z75 FC:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd
 w1522122957
-Z69 8C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd
+Z76 8C:/Users/vande/Desktop/DS_zender_ontvanger/mux.vhd
 Edatareg_tb
-Z70 w1524551035
+Z77 w1524551035
 R3
 R4
 R5
-Z71 8C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd
-Z72 FC:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd
+Z78 8C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd
+Z79 FC:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd
 l0
 L11
 VaY3n]hGDS;9XafQ]FG_?90
 !s100 naU5h]HbfKgm^f[DW7F9z0
 R8
 32
-R9
+Z80 !s110 1524570731
 !i10b 1
-R61
-Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd|
-Z74 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd|
+Z81 !s108 1524570731.000000
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd|
+Z83 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/datareg_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
 R1
 R2
-R64
+R71
 R3
 R4
 DEx4 work 10 datareg_tb 0 22 aY3n]hGDS;9XafQ]FG_?90
@@ -459,39 +592,39 @@ VZNH76MOT;`;KjR?_88o;Z3
 !s100 H;MedVgF=K>o`k_jAHzRa0
 R8
 32
-R9
+R80
 !i10b 1
-R61
-R73
-R74
+R81
+R82
+R83
 !i113 1
 R13
 R14
 Edatareg_test
-Z75 w1522122999
+Z84 w1522122999
 R2
 R1
 R3
 R4
 R5
-R71
-R72
+R78
+R79
 l0
 L5
 VhAUK7MMVHKDlYm:4KVg=G0
 !s100 kb4QUi:2@W>nFPmZeQQn<1
 R8
 32
-Z76 !s110 1522123055
+Z85 !s110 1522123055
 !i10b 1
-Z77 !s108 1522123055.000000
-R73
-R74
+Z86 !s108 1522123055.000000
+R82
+R83
 !i113 1
 R13
 R14
 Astructural
-R65
+R72
 R2
 R1
 R3
@@ -503,82 +636,82 @@ VhZcOX=jVdeDOUP^2BYQ`H2
 !s100 Y@hQLFOGf8Em7zNmfAi2^2
 R8
 32
-R76
+R85
 !i10b 1
-R77
-R73
-R74
+R86
+R82
+R83
 !i113 1
 R13
 R14
 Edebouncer
-Z78 w1519125824
+Z87 w1519125824
 R3
 R4
 R5
-Z79 8C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd
-Z80 FC:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd
+Z88 8C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd
+Z89 FC:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd
 l0
 L12
 V?c@_IcZ8CM]`ZkgTnabQz1
 !s100 8^kLdk]PIR6e?Pi2d6@HH2
 R8
 32
-R45
+R9
 !i10b 1
 R10
-Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd|
-Z82 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd|
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd|
+Z91 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer.vhd|
 !i113 1
 R13
 R14
 Abehav
 R3
 R4
-R34
+R36
 l31
 L22
 V>fFV4UJUig5AP4I_W9nOO3
 !s100 AKC:`:^mBGEQBMRVnbiDI0
 R8
 32
-R45
+R9
 !i10b 1
 R10
-R81
-R82
+R90
+R91
 !i113 1
 R13
 R14
 Edebouncer_tb
-Z83 w1520333970
+Z92 w1520333970
 R2
 R1
-R37
+R39
 R3
 R4
 R5
-Z84 8C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd
-Z85 FC:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd
+Z93 8C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd
+Z94 FC:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd
 l0
 L13
 VgmO`UfMFOl;9LeSZ5k9:<3
 !s100 OjPK:__h<f1hhgQ1G:AFm2
 R8
 32
-R45
+R9
 !i10b 1
 R10
-Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd|
-Z87 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd|
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd|
+Z96 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/debouncer_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
-R34
+R36
 R2
 R1
-R37
+R39
 R3
 R4
 DEx4 work 12 debouncer_tb 0 22 gmO`UfMFOl;9LeSZ5k9:<3
@@ -588,23 +721,23 @@ V>oHL0GdULElE?4edI1[@Y1
 !s100 _Yj16?d=:K::iE5Pf>f^93
 R8
 32
-R45
+R9
 !i10b 1
 R10
-R86
-R87
+R95
+R96
 !i113 1
 R13
 R14
 Edemux
-Z88 w1524553628
+Z97 w1524553628
 R1
 R2
 R3
 R4
 R5
-R69
-R68
+R76
+R75
 l0
 L13
 V2hWYLAh]zA9mg:Ke^<Pz`2
@@ -613,9 +746,9 @@ R8
 32
 R9
 !i10b 1
-R61
-R66
-R67
+R10
+R73
+R74
 !i113 1
 R13
 R14
@@ -624,7 +757,7 @@ R1
 R2
 R3
 R4
-Z89 DEx4 work 5 demux 0 22 2hWYLAh]zA9mg:Ke^<Pz`2
+Z98 DEx4 work 5 demux 0 22 2hWYLAh]zA9mg:Ke^<Pz`2
 l23
 L21
 VI7fNhelfoFBIPRC4YNi_G3
@@ -633,19 +766,19 @@ R8
 32
 R9
 !i10b 1
-R61
-R66
-R67
+R10
+R73
+R74
 !i113 1
 R13
 R14
 Edemux_tb
-Z90 w1524562206
+Z99 w1524562206
 R3
 R4
 R5
-Z91 8C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd
-Z92 FC:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd
+Z100 8C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd
+Z101 FC:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd
 l0
 L11
 VQ>f46ii^ANdnSR95=i^_M3
@@ -654,16 +787,16 @@ R8
 32
 R9
 !i10b 1
-R61
-Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd|
-Z94 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd|
+R10
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd|
+Z103 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/mux_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
 R1
 R2
-R89
+R98
 R3
 R4
 DEx4 work 8 demux_tb 0 22 Q>f46ii^ANdnSR95=i^_M3
@@ -675,32 +808,32 @@ R8
 32
 R9
 !i10b 1
-R61
-R93
-R94
+R10
+R102
+R103
 !i113 1
 R13
 R14
 Eedge_detector
-Z95 w1521642598
+Z104 w1521642598
 R1
 R2
 R3
 R4
 R5
-Z96 8C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd
-Z97 FC:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd
+Z105 8C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd
+Z106 FC:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd
 l0
 L13
 Vg9:`g9OaSl=Df]WDRdabN1
 !s100 Xi0BJPG;A9P4M]4OG<JR;2
 R8
 32
-R45
+R29
 !i10b 1
-R10
-Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd|
-Z99 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd|
+R30
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd|
+Z108 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector.vhd|
 !i113 1
 R13
 R14
@@ -709,46 +842,46 @@ R1
 R2
 R3
 R4
-R33
+R35
 l29
 L23
 Vm57Y5>[eZh51l3?>BJC?63
 !s100 >6fD7DhGcj5?BJ>EJczDT3
 R8
 32
-R45
+R29
 !i10b 1
-R10
-R98
-R99
+R30
+R107
+R108
 !i113 1
 R13
 R14
 Eedge_detector_tb
-Z100 w1521642988
+Z109 w1521642988
 R3
 R4
 R5
-Z101 8C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd
-Z102 FC:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd
+Z110 8C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd
+Z111 FC:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd
 l0
 L11
 VM=kgDaJ^NS_=kBc=aezET0
 !s100 A;]6TgBgLj6[kZLO`c8_^3
 R8
 32
-R45
+R29
 !i10b 1
-R10
-Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd|
-Z104 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd|
+R30
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd|
+Z113 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/edge_detector_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
 R1
 R2
-R33
+R35
 R3
 R4
 DEx4 work 16 edge_detector_tb 0 22 M=kgDaJ^NS_=kBc=aezET0
@@ -758,23 +891,23 @@ VdN]<4eLX_a775f9_V3P181
 !s100 4?1AAL5hWbEjGV:Rl]ZGk1
 R8
 32
-R45
+R29
 !i10b 1
-R10
-R103
-R104
+R30
+R112
+R113
 !i113 1
 R13
 R14
 Epngen
-Z105 w1522148936
+Z114 w1522148936
 R1
 R2
 R3
 R4
 R5
-Z106 8C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd
-Z107 FC:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd
+Z115 8C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd
+Z116 FC:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd
 l0
 L13
 Vd=VC56B=AQz?S>ShBV@f>3
@@ -783,9 +916,9 @@ R8
 32
 R9
 !i10b 1
-R61
-Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd|
-Z109 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd|
+R10
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd|
+Z118 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/pngen.vhd|
 !i113 1
 R13
 R14
@@ -794,7 +927,7 @@ R1
 R2
 R3
 R4
-Z110 DEx4 work 5 pngen 0 22 d=VC56B=AQz?S>ShBV@f>3
+Z119 DEx4 work 5 pngen 0 22 d=VC56B=AQz?S>ShBV@f>3
 l37
 L35
 VMQ5oo<Kb93QeabSn0IC2k1
@@ -803,19 +936,19 @@ R8
 32
 R9
 !i10b 1
-R61
-R108
-R109
+R10
+R117
+R118
 !i113 1
 R13
 R14
 Epngen_tb
-Z111 w1524547560
+Z120 w1524547560
 R3
 R4
 R5
-Z112 8C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd
-Z113 FC:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd
+Z121 8C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd
+Z122 FC:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd
 l0
 L11
 V8IJ`S;bbi7K0N;?nJE>IC1
@@ -824,16 +957,16 @@ R8
 32
 R9
 !i10b 1
-R61
-Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd|
-Z115 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd|
+R10
+Z123 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd|
+Z124 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/pngen_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
 R1
 R2
-R110
+R119
 R3
 R4
 DEx4 work 8 pngen_tb 0 22 8IJ`S;bbi7K0N;?nJE>IC1
@@ -845,74 +978,74 @@ R8
 32
 R9
 !i10b 1
-R61
-R114
-R115
+R10
+R123
+R124
 !i113 1
 R13
 R14
 Eseqcom_tb
-Z116 w1524553806
+Z125 w1524553806
 R3
 R4
 R5
-Z117 8C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd
-Z118 FC:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd
+Z126 8C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd
+Z127 FC:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd
 l0
 L11
 VE1L`UoT@nJJgVoT:Al:4I1
 !s100 L;znT>kHBOXgR75?b1BR43
 R8
 32
-R9
+R80
 !i10b 1
-R61
-Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd|
-Z120 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd|
+R81
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd|
+Z129 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon_tb.vhd|
 !i113 1
 R13
 R14
 Astructural
 R1
 R2
-Z121 DEx4 work 6 seqcon 0 22 jYi>QkjL1]e53=gTW64@o3
+Z130 DEx4 work 6 seqcon 0 22 jYi>QkjL1]e53=gTW64@o3
 R3
 R4
-Z122 DEx4 work 9 seqcom_tb 0 22 E1L`UoT@nJJgVoT:Al:4I1
+Z131 DEx4 work 9 seqcom_tb 0 22 E1L`UoT@nJJgVoT:Al:4I1
 l46
 L14
-Z123 V4Ia`n4BeTFIMA<=5F]V:?1
-Z124 !s100 D4Em;k_X`k?<b:=;1^@mo1
+Z132 V4Ia`n4BeTFIMA<=5F]V:?1
+Z133 !s100 D4Em;k_X`k?<b:=;1^@mo1
 R8
 32
-R9
+R80
 !i10b 1
-R61
-R119
-R120
+R81
+R128
+R129
 !i113 1
 R13
 R14
 Eseqcon
-Z125 w1524552475
+Z134 w1524552475
 R1
 R2
 R3
 R4
 R5
-Z126 8C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd
-Z127 FC:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd
+Z135 8C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd
+Z136 FC:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd
 l0
 L13
 VjYi>QkjL1]e53=gTW64@o3
 !s100 l]=[lgIY]bVkbMX_`eZi<3
 R8
 32
-R9
+R80
 !i10b 1
-R61
-Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd|
-Z129 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd|
+R81
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd|
+Z138 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seqcon.vhd|
 !i113 1
 R13
 R14
@@ -921,41 +1054,41 @@ R1
 R2
 R3
 R4
-R121
+R130
 l31
 L25
 Vm1;^2]gYQ2_a905:kW>LV3
 !s100 D=nM7RiXfk4ZKJ@oz[iz20
 R8
 32
-R9
+R80
 !i10b 1
-R61
-R128
-R129
+R81
+R137
+R138
 !i113 1
 R13
 R14
 Eseven_seg_dec
-Z130 w1521642938
+Z139 w1521642938
 R1
 R2
 R3
 R4
 R5
-Z131 8C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd
-Z132 FC:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd
+Z140 8C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd
+Z141 FC:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd
 l0
 L13
 VLe9PXjO:[P]XKfgY;R2h60
 !s100 J:m@eI<QH7XongT8AGb6Y3
 R8
 32
-R45
+R29
 !i10b 1
-R10
-Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd|
-Z134 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd|
+R30
+Z142 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd|
+Z143 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec.vhd|
 !i113 1
 R13
 R14
@@ -964,50 +1097,50 @@ R1
 R2
 R3
 R4
-R31
+R33
 l22
 L20
 V?0[A3O?g3743hMmn4Lf6B0
 !s100 WWmVgMCAaiFDco[AhN=Jo2
 R8
 32
-R45
+R29
 !i10b 1
-R10
-R133
-R134
+R30
+R142
+R143
 !i113 1
 R13
 R14
 Eseven_seg_dec_tb
-Z135 w1520333874
+Z144 w1520333874
 R2
 R1
-R37
+R39
 R3
 R4
 R5
-Z136 8C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd
-Z137 FC:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd
+Z145 8C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd
+Z146 FC:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd
 l0
 L13
 VXj:N1eQhiiB_Oh90:75gO1
 !s100 16FUGC6;Hgjfij7TCoWaW1
 R8
 32
-R45
+R29
 !i10b 1
-R10
-Z138 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd|
-Z139 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd|
+R30
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd|
+Z148 !s107 C:/Users/vande/Desktop/DS_zender_ontvanger/seven_seg_dec_tba.vhd|
 !i113 1
 R13
 R14
 Astructural
-R31
+R33
 R2
 R1
-R37
+R39
 R3
 R4
 DEx4 work 16 seven_seg_dec_tb 0 22 Xj:N1eQhiiB_Oh90:75gO1
@@ -1017,11 +1150,11 @@ V]kNI2TXaPc=UZ1?`=bYed1
 !s100 =HoQedzPJXJ_LQiMzCQJK2
 R8
 32
-R45
+R29
 !i10b 1
-R10
-R138
-R139
+R30
+R147
+R148
 !i113 1
 R13
 R14

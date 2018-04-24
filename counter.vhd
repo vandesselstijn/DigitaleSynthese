@@ -47,8 +47,10 @@ com_count: process(pres_cnt, cnt_up, cnt_down)
 begin
 if(cnt_up = '1') then  -- count up
    next_cnt <= pres_cnt + 1;
-else                   -- countdown
+elsif(cnt_down = '1') then -- countdown
    next_cnt <= pres_cnt - 1;
+else
+   next_cnt <= pres_cnt; -- latch vermijden
 end if;
 
 end process com_count; 

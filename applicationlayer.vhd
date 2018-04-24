@@ -42,7 +42,7 @@ architecture structural of applayer is
     Component edge_detector is
     port (
       data: in std_logic;
-      rst_b: in std_logic;
+      rst: in std_logic;
       clk: in std_logic;
       clk_en: in std_logic;
       puls: out std_logic
@@ -83,6 +83,8 @@ architecture structural of applayer is
                 
 begin
 
+    cnt_out <= count_i;
+
     debouncer_up: debouncer PORT MAP(
         		clk => clk,
  		      rst => rst,
@@ -100,7 +102,7 @@ begin
     );
     
     edge_detector_up: edge_detector PORT MAP(
-        		rst_b => rst,
+        		rst => rst,
  		      clk => clk,
 		      clk_en => clk_en,
           data => deb_up,
@@ -108,7 +110,7 @@ begin
     );
     
     edge_detector_down: edge_detector PORT MAP(
-        		rst_b => rst,
+        		rst => rst,
  		      clk => clk,
 		      clk_en => clk_en,
           data => deb_down,
@@ -128,6 +130,5 @@ begin
         		data_in => count_i,
 		      data_out => seg_out
     );
-                
-                
+                 
 end structural;

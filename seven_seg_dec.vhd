@@ -35,13 +35,13 @@ com_7dec: PROCESS(data_in)
           WHEN "0111"  => data_out <= "1110000"; --7
           WHEN "1000"  => data_out <= "1111111"; --8
           WHEN "1001"  => data_out <= "1111011"; --9
-          WHEN "1010"  => data_out <= "1111101";
-          WHEN "1011"  => data_out <= "0011111";
-          WHEN "1100"  => data_out <= "1001110";
-          WHEN "1101"  => data_out <= "0111101";
-          WHEN "1110"  => data_out <= "1001111";
-          WHEN "1111"  => data_out <= "1000111"; 
-          WHEN others  => data_out <= "0000000";                        
+          WHEN "1010"  => data_out <= "1111101"; --a
+          WHEN "1011"  => data_out <= "0011111"; --b
+          WHEN "1100"  => data_out <= "1001110"; --c
+          WHEN "1101"  => data_out <= "0111101"; --d
+          WHEN "1110"  => data_out <= "1001111"; --e
+          WHEN "1111"  => data_out <= "1000111"; --f
+          WHEN others  => data_out <= "0000000"; --8 --> alles segmenten aan                       
         END CASE;
 END PROCESS com_7dec;
                     

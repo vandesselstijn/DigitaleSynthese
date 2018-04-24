@@ -35,9 +35,9 @@ ARCHITECTURE structural OF counter_tb IS
 	SIGNAL rst_t:  std_logic;      --Interne signalen aangegeven _t om duidelijk te maken dat deze niet aanstuurbaar zijn
 	SIGNAL clk_t:  std_logic;
 	SIGNAL clk_en_t: std_logic;
-  SIGNAL cnt_up_t: std_logic;
-  SIGNAL cnt_down_t: std_logic;
-  SIGNAL cnt_out_t: std_logic_vector(3 DOWNTO 0);
+  	SIGNAL cnt_up_t: std_logic;
+  	SIGNAL cnt_down_t: std_logic;
+  	SIGNAL cnt_out_t: std_logic_vector(3 DOWNTO 0);
 
 BEGIN
 

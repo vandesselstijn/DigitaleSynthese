@@ -17,7 +17,7 @@ ARCHITECTURE structural OF edge_detector_tb IS
 	COMPONENT edge_detector
 		PORT (
       data: in std_logic;
-      rst_b: in std_logic;
+      rst: in std_logic;
       clk:  in std_logic;
       clk_en: in std_logic;
       puls: out std_logic
@@ -34,14 +34,16 @@ ARCHITECTURE structural OF edge_detector_tb IS
 	--Interne signalen aangegeven _t om duidelijk te maken dat deze niet aanstuurbaar zijn
   SIGNAL data_t: std_logic;
   SIGNAL rst_b_t: std_logic;
+  SIGNAL rst_t:std_logic;
   SIGNAL clk_t: std_logic;
   SIGNAL clk_en_t: std_logic;
   SIGNAL puls_t: std_logic;
 
 BEGIN
-
+ rst_t <= not rst_b_t; --Fixen van probleem van actief hoge en lage rst
+ 
 	uut: edge_detector PORT MAP(
- 		rst_b => rst_b_t,
+ 		rst => rst_t,
  		clk => clk_t,
 		clk_en => clk_en_t,
     data => data_t,
